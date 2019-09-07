@@ -10,5 +10,6 @@ public class MainTest {
 
         System.out.println("我是新来的");
         System.out.println("客服端改动");
+        System.out.println("服务器改动");
     }
 }
